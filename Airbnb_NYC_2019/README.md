@@ -3,7 +3,7 @@
 
 This is my analysis process. I did it basically by MySQL and visualization parts were done in Tableau.
 
-[MY SQL SCRIPT](https://github.com/levuthuynga/Airbnb-NYC-2019/blob/main/Airbnb_NYC_2019.sql)
+[MY SQL SCRIPT](https://github.com/levuthuynga/SQL-Projects/blob/main/Airbnb_NYC_2019/Airbnb_NYC_2019.sql)
 
 Here are 4 steps of this analysis:
 1. Ask
