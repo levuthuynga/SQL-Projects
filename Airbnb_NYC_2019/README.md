@@ -14,7 +14,7 @@ Here are 4 steps of this analysis:
 ## Context
 Since 2008, guests and hosts have used Airbnb to expand on traveling possibilities and present more unique, personalized way of experiencing the world. This dataset describes the listing activity and metrics in NYC, NY for 2019.
 
-[THE DATASET](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data)
+[DATASET](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data)
 
 ## I. Ask
 
@@ -71,7 +71,7 @@ Data was collected in New York only, from 2011 to 2019. Therefore analysis resul
 Last_review is empty results in reviews_per_month is empty, too. That means this listing never has a review. 
 Last_review might not affacts much, left it there. Set reviews_per_month empty cells to 0 and change data type to decimal
 
-#### Action
+#### Actions
 - Convert Price outliers to 3000
 - Drop rows where number_of_reviews and reviews_per_month have outliers, 16 rows total
 - Update reviews_per_month zero value and change data type.
